@@ -1,0 +1,42 @@
+h1 {
+    font-family: Calibri;
+    font-size: 60px;
+    color: #385898;
+}
+
+h2 {
+    font-family: Calibri;
+    font-size: 30px;
+    color: white;
+}
+
+img {
+    width: 200px;
+    border: 4px #385898 dotted;
+    padding: 3px
+}
+
+img:hover {
+    border: 4px #385898 solid
+}
+
+.PersonalData {
+    font-family: cursive;
+    color: white;
+}
+
+/* "iskanje" */
+p1 {
+    font-family: Calibri;
+    color: white;
+}
+
+body {
+    background-color: #543a3a;
+}
+
+button {
+    font-family: Calibri;
+    background-color: #385898;
+    color: white;
+}
